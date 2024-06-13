@@ -168,12 +168,7 @@ export const content = {
     subtitle: "MY CREATION",
 img:va
 ,    project_content: [
-      {
-        title: "MU Constructioninc",
-        image: project1,
-        tech:"Using React Js & Bootstrap Framework | bootstrap , email , framer-motion , react-icons , react-scripts , react-scroll-trigger , react-whatsapp , swiper , web-vitals",
-        path:"https://github.com/mmmmzxe/MU-Real.git",
-      },
+    
       {
         title: "Jewelry store",
         image: project2,
